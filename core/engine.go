@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Nuanu-com/aiassist/ledger"
-	"github.com/Nuanu-com/aiassist/llm"
-	"github.com/Nuanu-com/aiassist/registry"
+	"github.com/rizgust/aiassist/ledger"
+	"github.com/rizgust/aiassist/llm"
+	"github.com/rizgust/aiassist/registry"
 )
 
 const (
