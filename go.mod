@@ -1,4 +1,4 @@
-module github.com/Nuanu-com/aiassist
+module github.com/rizgust/aiassist
 
 go 1.25.5
 

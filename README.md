@@ -29,12 +29,12 @@ Design rationale: `nuanu-satudata/_TASKS/AI_ASSISTANT_TEMPLATE.md`.
 
 ```go
 import (
-    "github.com/Nuanu-com/aiassist/core"
-    "github.com/Nuanu-com/aiassist/llm"
-    "github.com/Nuanu-com/aiassist/llm/anthropic"
-    "github.com/Nuanu-com/aiassist/registry"
-    "github.com/Nuanu-com/aiassist/report"
-    pg "github.com/Nuanu-com/aiassist/store/postgres"
+    "github.com/rizgust/aiassist/core"
+    "github.com/rizgust/aiassist/llm"
+    "github.com/rizgust/aiassist/llm/anthropic"
+    "github.com/rizgust/aiassist/registry"
+    "github.com/rizgust/aiassist/report"
+    pg "github.com/rizgust/aiassist/store/postgres"
 )
 
 pool, _ := pgxpool.New(ctx, os.Getenv("ASSISTANT_DB_DSN"))
