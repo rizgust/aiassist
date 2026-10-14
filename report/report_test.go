@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Nuanu-com/aiassist/core"
-	"github.com/Nuanu-com/aiassist/ledger"
+	"github.com/rizgust/aiassist/core"
+	"github.com/rizgust/aiassist/ledger"
 )
 
 type fakeModule struct{ builds int }

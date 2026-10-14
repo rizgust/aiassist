@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nuanu-com/aiassist/core"
-	"github.com/Nuanu-com/aiassist/ledger"
+	"github.com/rizgust/aiassist/core"
+	"github.com/rizgust/aiassist/ledger"
 )
 
 // UsageModule is the built-in "ai.usage" report: a month's AI token usage

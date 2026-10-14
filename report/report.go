@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Nuanu-com/aiassist/core"
+	"github.com/rizgust/aiassist/core"
 )
 
 // Format is a render target.
