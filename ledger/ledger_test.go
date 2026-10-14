@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Nuanu-com/aiassist/llm"
-	"github.com/Nuanu-com/aiassist/registry"
+	"github.com/rizgust/aiassist/llm"
+	"github.com/rizgust/aiassist/registry"
 )
 
 func TestCost(t *testing.T) {

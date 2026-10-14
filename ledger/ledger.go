@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Nuanu-com/aiassist/llm"
-	"github.com/Nuanu-com/aiassist/registry"
+	"github.com/rizgust/aiassist/llm"
+	"github.com/rizgust/aiassist/registry"
 )
 
 // Status of one call.
