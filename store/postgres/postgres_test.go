@@ -9,11 +9,11 @@ import (
 
 	"github.com/jackc/pgx/v5/pgxpool"
 
-	"github.com/Nuanu-com/aiassist/core"
-	"github.com/Nuanu-com/aiassist/ledger"
-	"github.com/Nuanu-com/aiassist/llm"
-	"github.com/Nuanu-com/aiassist/registry"
-	"github.com/Nuanu-com/aiassist/signal"
+	"github.com/rizgust/aiassist/core"
+	"github.com/rizgust/aiassist/ledger"
+	"github.com/rizgust/aiassist/llm"
+	"github.com/rizgust/aiassist/registry"
+	"github.com/rizgust/aiassist/signal"
 )
 
 // Integration test against a throwaway database:

@@ -7,7 +7,7 @@ import (
 
 	"github.com/jackc/pgx/v5"
 
-	"github.com/Nuanu-com/aiassist/core"
+	"github.com/rizgust/aiassist/core"
 )
 
 // Conversation implements core.ConversationStore.

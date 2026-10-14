@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/Nuanu-com/aiassist/ledger"
+	"github.com/rizgust/aiassist/ledger"
 )
 
 // Ledger implements ledger.Store.

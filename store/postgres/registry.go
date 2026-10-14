@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Nuanu-com/aiassist/registry"
+	"github.com/rizgust/aiassist/registry"
 )
 
 // Registry implements registry.Store.

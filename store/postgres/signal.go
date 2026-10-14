@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/Nuanu-com/aiassist/signal"
+	"github.com/rizgust/aiassist/signal"
 )
 
 // Signals implements signal.Store.
