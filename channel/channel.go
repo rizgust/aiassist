@@ -6,7 +6,7 @@ package channel
 import (
 	"context"
 
-	"github.com/Nuanu-com/aiassist/core"
+	"github.com/rizgust/aiassist/core"
 )
 
 // Channel is one output surface.
