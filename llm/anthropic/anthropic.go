@@ -9,7 +9,7 @@ import (
 	sdk "github.com/anthropics/anthropic-sdk-go"
 	"github.com/anthropics/anthropic-sdk-go/option"
 
-	"github.com/Nuanu-com/aiassist/llm"
+	"github.com/rizgust/aiassist/llm"
 )
 
 // ProviderName is the registry.Model.Provider value this adapter serves.

@@ -10,7 +10,7 @@ import (
 
 	"github.com/anthropics/anthropic-sdk-go/option"
 
-	"github.com/Nuanu-com/aiassist/llm"
+	"github.com/rizgust/aiassist/llm"
 )
 
 func TestComplete_RequestShapeAndResponseMapping(t *testing.T) {
